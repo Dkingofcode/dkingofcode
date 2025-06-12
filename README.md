@@ -15,7 +15,7 @@ I am a FullStack Developer dedicated to building sustainable and scalable softwa
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  I love to do hard things and i hate losing.
 <a href="https://www.x.com/TheKingDavid001" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/David_kingcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  src="https://img.shields.io/twitter/follow/TheKingDavid001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 <!--
 **Dkingofcode/dkingofcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
