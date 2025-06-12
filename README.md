@@ -9,12 +9,12 @@ FullStack Developer
 I am a FullStack Developer dedicated to building sustainable and scalable software
 
 *   🌍  I'm based in Lagos
-*   🖥️  See my portfolio at [MyPortfolio](http://3-d-portfolio-website-beta.vercel.app)
+*   🖥️  See my portfolio at [MyPortfolio](https://react3-d-portfolio.vercel.app)
 *   ✉️  You can contact me at [doladepo128@gmail.com](mailto:doladepo128@gmail.com)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  I love to do hard things and i hate losing.
-<a href="https://www.x.com/David_kingcode" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/TheKingDavid001" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/David_kingcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 <!--
